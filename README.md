@@ -1,2 +1,2 @@
 # jmeter
-Нагрузочные тесты в jmeter 3 RPS
+Нагрузочные тесты в jmeter 4 RPS
